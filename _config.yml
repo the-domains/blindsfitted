@@ -1,0 +1,28 @@
+name: blindsfitted
+favicon: null
+layout_spectrum: 0.18726655561476946
+typography_spectrum: 0.3723968560807407
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.25668805302120745
+  lightness: 0.10325094358995557
+  saturation: 0.5052635495085269
+  rhythmicContrast: 0.6682913098484278
+purpose: []
